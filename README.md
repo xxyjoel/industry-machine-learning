@@ -1,23 +1,32 @@
 # Machine Learning and Data Science Applications in Industry
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20list%20of%20Python%20Notebooks%20for%20business%20applications&url=https://github.com/firmai/industry-machine-learning&via=dereknow&hashtags=ML,AI,Python,business)
 
-Please add your tools and notebooks to this [Google Sheet](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). 
+### Admin
 
-Highlight in **YELLOW** to get your pacakge added, you can also just add it yourself with a **pull request**. 
+Have a look at the newly started [FirmAI Medium](https://medium.com/firmai) publication where we have experts of AI in business, write about their topics of interest. 
 
+Other FirmAI projects include **[DataGene](https://github.com/firmai/datagene)** for data similarity and comparison statistics, **[AtsPy](https://github.com/firmai/atspy)** automating Python's best time series models, **[MTSS-GAN](https://github.com/firmai/mtss-gan)**: multivariate time series simulation using generative adversarial learning, **[PandaPy](https://github.com/firmai/pandapy)** a data structure solutions that has the speed of NumPy and the usability of Pandas (10x to 50x faster), **[FairPut](https://github.com/firmai/fairput)** a holistic approach to implement fair machine learning outputs at the individual and group level, and **[PandasVault](https://github.com/firmai/pandasvault)** a package for advanced pandas functions and code snippets.
 
+If you enjoy this repository, you would also like [google-colab-notebooks](https://github.com/firmai/google-colab-notebooks): Google Colaboratory End-to-End Notebooks and Repositories https://google-colab.com/. 
+
+##### Also instead of "watching"  you can **join** the link-letter, there is already about 8000 sign-ups, first email will be sent out Feb 2020. Monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. 
+
+---
+
+Please add your tools and notebooks to this [Google Sheet](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). Or simply add it to this subreddit, [r/datascienceproject](https://www.reddit.com/r/datascienceproject/) 
+
+Highlight in **YELLOW** to get your package added, you can also just add it yourself with a **pull request**. 
 
 <p align="center">
   <img src="https://github.com/firmai/industry-machine-learning/raw/master/assets/industry.png">
 </p>
 
 
-A curated list of applied machine learning and data science notebooks and libraries accross different industries. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. The catalogue is inspired by `awesome-machine-learning`.
+A curated list of applied machine learning and data science notebooks and libraries accross different industries. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. The catalogue is inspired by `awesome-machine-learning`. [r/datascienceproject](https://www.reddit.com/r/datascienceproject/) is a subreddit where you can share all your data science projects. 
 
 ***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in any of the industries listed below. If you are a **[**analytical, computational, statistical, quantitive**]** researcher/analyst in field **X** or a field **X** **[**machine learning engineer, data scientist, modeler, programmer**]** then your contribution will be greatly appreciated.   
 
 
-If you want to contribute to this list (please do), send me a pull request or contact me [@dereknow](https://twitter.com/dereknow) or on [linkedin](https://www.linkedin.com/in/snowderek/).
+If you want to contribute to this list (please do), send me a pull request or contact me [@dereknow](https://twitter.com/dereknow) or on [linkedin](https://www.linkedin.com/in/snowderek/) or get in contact on the website [FirmAI](https://www.firmai.org).
 Also, a listed repository should be deprecated if:
 
 * Repository's owner explicitly say that "this library is not maintained".
@@ -133,6 +142,23 @@ Also, a listed repository should be deprecated if:
 
 <!-- /MarkdownTOC -->
 
+## ML/DS Career Section for Industry Machine Learning
+See [data-science-career repo](https://github.com/firmai/data-science-career) for more. 
+
+### Platforms:
+1. [Triplebyte](https://triplebyte.com/a/Nosq7GM/d) - Take a quiz. Get offers from multiple top tech companies at once (now have a machine learning track).
+1. [Toptal](https://www.toptal.com/) - Developers seeking to gain entry into the Toptal community are put through a battery of personality and technical tests.
+1. [Hired](https://hired.com/) - Hired matches employers with qualified candidates through a combination of in-house algorithms and online support.
+1. [Kaggle](https://www.kaggle.com/jobs) - Scalable Path is a premium talent matching service.
+
+### Reviews:
+
+- [Glassdoor](https://www.glassdoor.com/index.htm) - Best employee narratives.
+- [Indeed](https://www.indeed.com/) - Best coverage.
+- [Kununu](https://www.kununu.com/us) - Best well-rounded infromation.
+- [Comparably](https://www.comparably.com/) - Best comparison functionality. 
+- [InHerSight](https://www.inhersight.com/) - Best female-friendly perspective.
+
 <a name="accommodation"></a>
 ## Accommodation & Food
 
@@ -154,7 +180,7 @@ Also, a listed repository should be deprecated if:
 - [Restaurant Success](https://github.com/alifier/Restaurant_success_model) - Predict whether a restaurant is going to fail. 
 - [Predict Michelin](https://github.com/josephofiowa/dc-michelin-challenge/tree/master/submissions) - Predict the likelihood that restaurant is a Michelin restaurant. 
 - [Restaurant Inspection](https://github.com/gzsuyu/Data-Analysis-NYC-Restaurant-Inspection-Data) - An inspection analysis to see if cleanliness is related to rating.
-- [Sales](https://github.com/gzsuyu/Data-Analysis-NYC-Restaurant-Inspection-Data) - Restaurant sales forecasting with LTSM.
+- [Sales](https://github.com/ayeright/sales-forecast-lstm) - Restaurant sales forecasting with LSTM.
 - [Visitor Forecasting](https://github.com/anki1909/Recruit-Restaurant-Visitor-Forecasting) - Reservation and visitation number prediction. 
 - [Restaurant Profit](https://github.com/everAspiring/RegressionAnalysis) - Restaurant regression analysis. 
 - [Competition](https://github.com/klin90/missinglink) - Restaurant competitiveness analysis.
@@ -168,6 +194,8 @@ Also, a listed repository should be deprecated if:
 - [Automated Restaurant Report](https://github.com/firmai/interactive-corporate-report) - Automated machine learning company report.
 
 <a name="accommodation-acc"></a>
+**Accommodation** 
+
 - [Peer-to-Peer Housing](https://github.com/rochiecuevas/shared_accommodations) - The effect of peer to peer  rentals on housing. 
 - [Roommate Recommendation](https://github.com/SiddheshAcharekar/Liveright) - A system for students seeking roommates. 
 - [Room Allocation](https://github.com/nus-usp/room-allocation) - Room allocation process. 
@@ -189,7 +217,7 @@ Also, a listed repository should be deprecated if:
 <a name="accounting-ml"></a>
 #### Machine Learning
 * [Chart of Account Prediction](https://github.com/agdgovsg/ml-coa-charging ) - Using labeled data to suggest the account name for every transaction.
-* [Accounting Anomalies](https://github.com/GitiHubi/deepAI/blob/master/GTC_2018_Lab-solutions.ipynb) -  Using deep-learning frameworks to identify accounting anomalies.
+* [Accounting Anomalies](https://github.com/GitiHubi/deepAI/blob/master/GTC_2018_CoLab.ipynb) -  Using deep-learning frameworks to identify accounting anomalies.
 * [Financial Statement Anomalies](https://github.com/rameshcalamur/fin-stmt-anom) - Detecting anomalies before filing, using R.
 * [Useful Life Prediction (FirmAI)](http://www.firmai.org/documents/Aged%20Debtors/) - Predict the useful life of assets using sensor observations and feature engineering.
 * [AI Applied to XBRL](https://github.com/Niels-Peter/XBRL-AI) - Standardized representation of XBRL into AI and Machine learning.
@@ -213,6 +241,7 @@ Also, a listed repository should be deprecated if:
 #### Data, Parsing and APIs
 
 * [EDGAR](https://github.com/TiesdeKok/UW_Python_Camp/blob/master/Materials/Session_5/EDGAR_walkthrough.ipynb) - A walk-through in how to obtain EDGAR data. 
+* [PyEDGAR](https://github.com/gaulinmp/pyedgar) - A library for downloading, caching, and accessing EDGAR filings.
 * [IRS](http://social-metrics.org/sox/) - Acessing and parsing IRS filings.
 * [Financial Corporate](http://raw.rutgers.edu/Corporate%20Financial%20Data.html) - Rutgers corporate financial datasets.
 * [Non-financial Corporate](http://raw.rutgers.edu/Non-Financial%20Corporate%20Data.html) - Rutgers non-financial corporate dataset.
@@ -309,7 +338,6 @@ Also, a listed repository should be deprecated if:
 
 - [Car Damage Detective](https://github.com/neokt/car-damage-detective) - Assessing car damage with convolution neural networks for a personal auto *claims.*
 - [Medical Insurance Claims](https://github.com/roshank1605A04/Insurance-Claim-Prediction/blob/master/InsuranceClaim.ipynb) - Predicting medical insurance claims. 
-- Anomaly 
 - [Claim Denial](https://github.com/slegroux/claimdenial/blob/master/Claim%20Denial.ipynb) - Predicting insurance claim denial
 - [Claim Fraud](https://github.com/rshea3/alpha-insurance) -  Predictive models to determine which automobile claims are fraudulent. 
 - [Claims Anomalies](https://github.com/dchannah/fraudhacker) - Anomaly detection system for medical insurance claims data.
@@ -330,7 +358,7 @@ Also, a listed repository should be deprecated if:
 #### Physical
 
 * [Bank Note Fraud Detection](https://github.com/apoorv-goel/Bank-Note-Authentication-Using-DNN-Tensorflow-Classifier-and-RandomForest) - Bank Note Authentication Using DNN Tensorflow Classifier and RandomForest.
-* [ATM Surveillance](https://github.com/ShreyaGupta08/InfyHack) - ATM Surveillance in banks use case.
+* [ATM Surveillance](https://github.com/ShreyaGupta08/InfosysHack) - ATM Surveillance in banks use case.
 
 
 <a name="biotech"></a>
@@ -385,7 +413,7 @@ Also, a listed repository should be deprecated if:
 - [Leaf Identification](https://github.com/AayushG159/Plant-Leaf-Identification) - Identification of *plants* through *plant* leaves on the basis of their shape, color and texture.
 - [Crop Analysis](https://github.com/openalea/eartrack) - An imaging library to detect and track future position of ears on maize *plants*
 - [Seedlings](https://github.com/mfsatya/PlantSeedlings-Classification) - *Plant* Seedlings Classification from kaggle competition
-- [Plant Stress](http://An ontology containing plant stresses; biotic and abiotic.) -  An ontology containing *plant* stresses; biotic and abiotic.
+- [Plant Stress](https://github.com/Planteome/ontology-of-plant-stress) - An ontology containing plant stresses; biotic and abiotic.
 - [Animal Hierarchy](https://github.com/sacul-git/hierarpy) - Package for calculating *animal* dominance hierarchies.
 - [Animal Identification](https://github.com/A7med01/Deep-learning-for-Animal-Identification) - Deep learning for animal identification. 
 - [Species](https://github.com/NomaanAhmed/BigData_AnimalSpeciesAnalysis) - Big Data analysis of different species of *animals*
@@ -578,6 +606,7 @@ Also, a listed repository should be deprecated if:
 <a name="finance-trading"></a>
 **Trading and Investment** 
 - For **more** see [financial-machine-learning](https://github.com/firmai/financial-machine-learning)
+- For **asset management** see [financial-machine-learning](https://github.com/firmai/machine-learning-asset-management)
 - [Deep Portfolio](https://github.com/DLColumbia/DL_forFinance) - Deep learning for finance Predict volume of bonds.
 - [AI Trading](https://github.com/borisbanushev/stockpredictionai/blob/master/readme2.md) - Modern AI trading techniques.
 - [Corporate Bonds](https://github.com/ishank011/gs-quantify-bond-prediction) - Predicting the buying and selling volume of the corporate bonds.
@@ -610,10 +639,10 @@ Also, a listed repository should be deprecated if:
 - [AlphaVantage](http://twopirllc) - API wrapper to simplify the process of acquiring free financial data.
 - [FSA](https://github.com/duncangh/FSA)- A project to transfer SEC Edgar Filings’ financial data to custom financial statement analysis models. 
 - [TradeConnector](https://github.com/tradeasystems/tradeasystems_connector) - A layer to connect with market data providers. 
-- [Employee Count SEC Filings](https://github.com/healthgradient/sec_employee_information_extraction)
-- [SEC Parsing](https://github.com/healthgradient/sec-doc-info-extraction/blob/master/classify_sections_containing_relevant_information.ipynb)
-- [Open Edgar](https://github.com/LexPredict/openedgar)
-- [Rating Industries](http://www.ratingshistory.info/)
+- [Employee Count SEC Filings](https://github.com/healthgradient/sec_employee_information_extraction) - Extraction to get the exact employee count values for companies from SEC filings.
+- [SEC Parsing](https://github.com/healthgradient/sec-doc-info-extraction/blob/master/classify_sections_containing_relevant_information.ipynb) -  NLP to find and extract specific information from long, unstructured documents
+- [Open Edgar](https://github.com/LexPredict/openedgar) - OpenEDGAR (openedgar.io)
+- [Rating Industries](http://www.ratingshistory.info/) - Histories from multiple agencies converted to CSV format
 
 **Personal Papers**
 
@@ -652,6 +681,7 @@ Also, a listed repository should be deprecated if:
 - [Chat Bot](https://github.com/akarazeev/LegalTech) - Chat-bot and email notifications.
 - [Congress API](https://github.com/propublica/congress-api-docs) - ProPublica congress API access. 
 - [Data Generator GDPR](https://github.com/toningega/Data_Generator) - Dummy data generator for GDPR compliance
+- [Blackstone](https://github.com/ICLRandD/Blackstone) - spaCy pipeline and model for NLP on unstructured legal text.
 
 
 <a name="legal-pr"></a>
@@ -803,10 +833,9 @@ Also, a listed repository should be deprecated if:
 - [Census Data API](https://github.com/johnfwhitesell/CensusPull/blob/master/Census_ACS5_Pull.ipynb) - Pull variables from the 5-year American Community Survey.
 - [Philantropic Giving](https://github.com/datakind/datadive-gates92y-proj3-form990) - Work done by numerous DataKind volunteers on harnessing Form 990 data
 - [Charity Recommender](https://github.com/Chris-Manna/charity_recommender) - NYC *Charity* Collaborative Recommender System on an Implicit DataSet.
-- Donor Identification - A machine learning project in which we need to find donors for *charity.*
+- [Donor Identification](https://github.com/gouravaich/finding-donors-for-charity) - A machine learning project in which we need to find donors for *charity.*
 - [US Charities](https://github.com/staceb/charities_in_the_united_states) -  Charity exploration and machine learning. 
-- [Charity Effectiveness](https://github.com/LauraChen/02-Metis-Web-Scraping)
-- -  Scraping online data about *charities* to understand effectiveness
+- [Charity Effectiveness](https://github.com/LauraChen/02-Metis-Web-Scraping) -  Scraping online data about *charities* to understand effectiveness
 
 <a name="public-election"></a>
 #### Election Analysis
@@ -905,7 +934,7 @@ Also, a listed repository should be deprecated if:
 - [Water Modelling](https://github.com/awracms/awra_cms_older) - Australian Water Resource Assessment (AWRA) Community Modelling System.
 - [Drought Restrictions](https://github.com/datadesk/california-ccscore-analysis) - A Los Angeles Times analysis of water usage after the state eased drought restrictions
 - [Flood Prediction](https://github.com/cadrev/lstm-flood-prediction) - Applying LSTM on river water level data
-- [Sewage Overflow](https://github.com/jesseanddd/sewer-overflow) -  Insights into the sanitary sewage overflow (SSO).
+- [Sewage Overflow](https://github.com/jesseanddd/sewer-overflow) -  Insights into the sanitary sewage overflow (SSO). - This has been removed
 - [Water Accounting](https://github.com/johnpfay/USWaterAccounting) - Assembles water budget data for the US from existing data source
 - [Air Quality Prediction](https://github.com/txytju/air-quality-prediction) - Predict air quality(aq) in Beijing and London in the next 48 hours.
 
@@ -919,7 +948,7 @@ Also, a listed repository should be deprecated if:
 - [Demand Estimation](https://github.com/Lemma1/DPFE) - Implementation of dynamic origin-destination demand estimation.
 - [Congestion Analysis](https://github.com/hackoregon/transportation-congestion-analysis) -  Transportation systems analysis
 - [TS Analysis](https://github.com/nishanthgampa/Time-Series-Analysis-on-Transportation-Data) - Time series analysis on transportation data.
-- [Network Graph Subway](https://github.com/fangshulin/Vulnerability-Analysis-for-Transportation-Networks) - Vulnerability analysis for transportation networks. 
+- [Network Graph Subway](https://github.com/fangshulin/Vulnerability-Analysis-for-Transportation-Networks) - Vulnerability analysis for transportation networks. - Have been taken down
 - [Transportation Inefficiencies](https://github.com/akpen/Stockholm-0.1) - Quantifying the inefficiencies of Transportation Networks
 - [Train Optimisation](https://github.com/crowdAI/train-schedule-optimisation-challenge-starter-kit) - Train schedule optimisation 
 - [Traffic Prediction](https://github.com/mratsim/McKinsey-SmartCities-Traffic-Prediction) - multi attention recurrent neural networks for time-series (city traffic) 
@@ -948,5 +977,12 @@ Also, a listed repository should be deprecated if:
 - [Retail Use-case](https://github.com/IBM-DSE/CyberShop-Analytics) - Notebooks & Data for CyberShop *Retail* Use Case
 - [Dwell Time](https://github.com/arvindkarir/retail) - Customer dwell time and other analysis. 
 - [Retail Cohort](https://github.com/finnqiao/cohort_online_retail) - Cohort analysis. 
+
+Sponsors
+------------------
+- [Triplebyte](https://triplebyte.com/a/Nosq7GM/s) -  is building an objective and empirically validated software engineering recruitment process. We don’t look at resumes, just at whether you can code. 
+- [DataScienceProject](https://www.reddit.com/r/datascienceproject/) - Subscribe to the new reddit sub for datascience projects.
+- [FirmAI](https://www.firmai.org/) - Responsible open source business automation. 
+
 
 
